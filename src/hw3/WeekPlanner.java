@@ -16,7 +16,7 @@ public class WeekPlanner {
         scedule[3][0] = "Wednesday";
         scedule[3][1] = "go to the gym";
         scedule[4][0] = "Thursday";
-        scedule[4][1] = "";
+        scedule[4][1] = "go to the courses";
         scedule[5][0] = "Friday";
         scedule[5][1] = "go to the club";
         scedule[6][0] = "Saturday";
